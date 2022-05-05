@@ -27,7 +27,6 @@ public class EvoAxe {
 
         // Set Enchantments on the axe
         Utils.SetEnchantments(item, itemMeta, enchantments, levels);
-        itemMeta.spigot().setUnbreakable(true);
 
         // Set the nbti tags
         NBTItem nbti = new NBTItem(item);

@@ -60,6 +60,7 @@ public class Utils {
         for (int i = 0; i < enchantList.size(); i++) {
             itemMeta.addEnchant(Enchantment.getByName(enchantList.get(i)), Integer.parseInt(levelsList.get(i)), true);
         }
+        itemMeta.spigot().setUnbreakable(true);
         item.setItemMeta(itemMeta);
     }
 
