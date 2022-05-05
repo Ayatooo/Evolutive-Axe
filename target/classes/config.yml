@@ -1,0 +1,57 @@
+name: "§b❃ Hache Evolutive ❃"
+lore:
+      - "§f➥ §eCette §6Hache §eévolue"
+      - "§f➥ §egrâce aux pastèques !"
+      - ""
+      - "§f➥ §bExp §f»"
+      - "§f⦁ §bRareté §f» §d✯✯"
+level:
+      0:
+            exp: "15000"
+            ench:
+            - "DIG_SPEED"
+            - "LOOT_BONUS_BLOCKS"
+            niveau:
+            - "4"
+            - "3"
+      1:
+            exp: "50000"
+            ench:
+            - "DIG_SPEED"
+            - "LOOT_BONUS_BLOCKS"
+            niveau:
+            - "5"
+            - "3"
+
+      2:
+            exp: "100000"
+            ench:
+            - "DIG_SPEED"
+            - "LOOT_BONUS_BLOCKS"
+            niveau:
+            - "5"
+            - "4"
+      3:
+            exp: "500000"
+            ench:
+            - "DIG_SPEED"
+            - "LOOT_BONUS_BLOCKS"
+            niveau:
+            - "5"
+            - "5"
+      4:
+            exp: "1000000"
+            ench:
+            - "DIG_SPEED"
+            - "LOOT_BONUS_BLOCKS"
+            niveau:
+            - "5"
+            - "6"
+      5:
+            exp: "2000000"
+            ench:
+            - "DIG_SPEED"
+            - "LOOT_BONUS_BLOCKS"
+            niveau:
+            - "5"
+            - "7"

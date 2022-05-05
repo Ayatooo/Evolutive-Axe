@@ -1,0 +1,7 @@
+name: Evolutive-Axe
+version: 1.0
+author: ayato__
+main: fr.ayato.evoaxe.Main
+commands:
+  evoaxe:
+    permissions: evoaxe.give
